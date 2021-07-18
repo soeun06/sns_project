@@ -1,0 +1,66 @@
+nav {
+    color: orange;
+}
+
+.me{
+    position: absolute;
+    left: 50%;
+    top: 35%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+    text-decoration: none;
+    color: black;
+
+}
+.past{
+    position: absolute;
+    left: 50%;
+    top: 45%;
+    transform: translate(-50%, -20%);
+    font-size: 70px;
+    color: skyblue;
+    text-decoration: none;
+    
+}
+.future{
+    position: absolute;
+    left: 50%;
+    top: 55%;
+    transform: translate(-50%, +10%);
+    font-size: 70px;
+    color: skyblue;
+    text-decoration: none;
+    
+
+}
+#descript{
+    text-align: center;
+}
+
+#list{
+    text-align: center;
+}
+
+#path{
+    text-align: center;
+}
+
+#now{
+    text-align: center;
+}
+
+.light{
+   display:block;
+   margin-top: 3%;
+   margin-right: 20%;
+   margin-left: 20%;
+  
+    height: 480px;
+    width: 300px
+}
+
+.pic{
+    display:block;
+    
+    margin-left: 35%;
+}
