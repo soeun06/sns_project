@@ -64,3 +64,8 @@ nav {
     
     margin-left: 35%;
 }
+
+.heart{
+    display:flex;
+    flex-direction: row;
+}
